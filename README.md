@@ -11,6 +11,6 @@
 
 권영국 = Yeongkook Kwon(KDLP, Korean Democratic Labour Party, 0.98% total, Coloured Yellow)
 
-Source codes will be uploaded soon after cleaned up.
+Source codes will be uploaded soon after clean it up.
 
 Pandas, Numpy, Plotly, GeoPandas, Folium, Json, Regex
